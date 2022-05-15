@@ -15,7 +15,7 @@ This repository contains the code and documentation of the project carried out t
 ## The Game
 The game consists of controlling a character who has to pass all the available levels and at the same time get as many coins as possible. To do this, the character will encounter different fixed and movable platforms and enemies that will try to kill him. Although if you don't want to ignore the enemies you can always jump on them to kill them. Of course, there is no need to worry since the character has unlimited lives.
 
-![alt text](game_screenshot.png)
+![alt text](documentation/game_screenshot.png)
 
 ## Video
 You can see a demo of the video game on YouTube here: https://youtu.be/o0rzpCs3n0Y

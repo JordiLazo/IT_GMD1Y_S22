@@ -15,14 +15,16 @@ This repository contains the code and documentation of the project carried out t
 ## The Game
 The game consists of controlling a character who has to pass all the available levels and at the same time get as many coins as possible. To do this, the character will encounter different fixed and movable platforms and enemies that will try to kill him. Although if you don't want to ignore the enemies you can always jump on them to kill them. Of course, there is no need to worry since the character has unlimited lives.
 
+![alt text](documentation/game_screenshot.png)
+
 ## Video
-You can see a demo of the video game on YouTube here. https://youtu.be/UwSZN62b4U0
+You can see a demo of the video game on YouTube here: https://youtu.be/o0rzpCs3n0Y
 
 ## WebGL
 WebGL (Web Graphics Library) is a JavaScript API for rendering interactive 2D and 3D graphics within any compatible web browser without the use of plug-ins.
 So, you are free to try the game in your browser without having to download the code.
 
-If you want [PLAY THE VIDEO GAME NOW](https://jordilazo.itch.io/it-gmd1y-ss-jordi-lazo)
+If you want you can [PLAY THE VIDEO GAME NOW](https://jordilazo.itch.io/it-gmd1y-ss-jordi-lazo)
 
 ## Supervisors
 The teachers who have guided this project are:
